@@ -8,4 +8,15 @@ In this Project i've learnt next:
 * How to use CPU registers for passing arguments and storing information
 * Reading input from Keyboard and printing it on the Screen
 
+## Compilation
+In order to compile the project you need to have installed **NASM**
+
+### Linux
+```
+nasm -f elf64 -o main.o main.s
+
+ld -o program program.o
+```
+
+# Video demonstration
 https://github.com/user-attachments/assets/f78947cc-aba5-4eb3-b9d9-7e0bf6fcc3eb
