@@ -15,7 +15,7 @@ In order to compile the project you need to have installed **NASM**
 ```
 nasm -f elf64 -o main.o main.s
 
-ld -o program program.o
+ld -o main main.o
 ```
 
 # Video demonstration
