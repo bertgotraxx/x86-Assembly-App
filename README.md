@@ -9,7 +9,7 @@ In this Project i've learnt next:
 * Reading input from Keyboard and printing it on the Screen
 
 ## Compilation
-In order to compile the project you need to have installed **NASM**
+In order to compile the project you need to have installed **NASM** or any other Assembly compiler
 
 ### Linux
 ```
