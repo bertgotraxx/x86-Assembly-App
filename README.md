@@ -11,7 +11,7 @@ In this Project i've learnt next:
 ## Compilation
 In order to compile the project you need to have installed **NASM** or any other Assembly compiler
 
-### Linux
+### Linux (NASM)
 ```
 nasm -f elf64 -o main.o main.s
 
